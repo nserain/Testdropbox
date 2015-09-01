@@ -1,0 +1,13 @@
+{
+    "name": "haupria3/haupriabox",
+    "description": "test de l'api dropbox",
+    "require": {
+        "dropbox/dropbox-sdk": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Nicolas SERAIN",
+            "email": "nserain@haupria.com"
+        }
+    ]
+}
